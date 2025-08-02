@@ -1,0 +1,10 @@
+# Core Essentials (no voice)
+python-telegram-bot==20.7
+firebase-admin==6.2.0
+google-cloud-firestore==2.11.1
+python-dotenv==1.0.0
+
+# Pinned compatible versions
+requests==2.31.0
+httpx==0.25.2
+urllib3==1.26.20
